@@ -1,2 +1,0 @@
-# weatherapp
-weather detection
